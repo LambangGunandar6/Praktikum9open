@@ -2,7 +2,7 @@
 
 Lihatlah Source Code dibawah ini : <br>
 
-![gambar 1](asset/code.png)<br>
+![gambar 1](asset/exception.png)<br>
  
  Disini kita mencoba mengecek apakah ada 'file.txt', ada kalanya kita lupa untuk membuat file dan disitulah akan terjadi eror diatas kita membuat contoh eror menggunakan exception. <br>
 <br>
@@ -37,5 +37,5 @@ jika kita menginputkan 'l' maka program akan menjalankan perintah unutuk mnenamp
 
 ![gambar 1](asset/keluar.png)<br>
 
-dan jika kita ingin mengakhiri program kita bisa menginputkan 'k' unruk keluar dari program.<br>
+dan jika kita ingin mengakhiri program kita bisa menginputkan 'k' untuk keluar dari program.<br>
 
